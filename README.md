@@ -5,3 +5,4 @@ Regression Analysis using dataset from different Industries including:
 - Garment Production
 - Animal / Wild life
 - Education
+- Real Estate
